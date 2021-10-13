@@ -1,0 +1,20 @@
+Ej:
+
+Página 1 (register): Formulario en el que se introduzca un nombre de usuario y una clave de acceso 2 acceso
+
+	Le damos submit
+
+Página 2: Formulario campo nombre, apellidos, correoElectronico
+
+	Le damos submit
+
+Página 3: Lista de areas de interés.
+
+	Le damos submit
+
+Página 4: Mostrar todo lo anterior, y decir si las pass son las mismas
+
+Subir a GitHub y luego en Moodle subir a Carmelo el enlace, y añadir en el readme pantallazos de las
+diferentes pantallas
+
+14/10/21
